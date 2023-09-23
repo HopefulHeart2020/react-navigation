@@ -69,6 +69,7 @@ Remember to replace `<user>`, `<repo>` and `<name>` with right values.
 [build-badge]: https://github.com/react-navigation/react-navigation/actions/workflows/ci.yml/badge.svg
 [build]: https://github.com/react-navigation/react-navigation/actions/workflows/ci.yml
 [coverage-badge]: https://img.shields.io/codecov/c/github/react-navigation/react-navigation.svg
+
 [coverage]: https://codecov.io/github/react-navigation/react-navigation
 [license-badge]: https://img.shields.io/npm/l/@react-navigation/core.svg
 [license]: https://opensource.org/licenses/MIT
